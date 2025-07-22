@@ -8,7 +8,7 @@ def subtract(x, y):
     """Subtracts two numbers."""
     return x - y
 
-def multiply(x, y):
+#def multiply(x, y):
     """Multiplies two numbers."""
     return x * y
 
